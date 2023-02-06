@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+#pn-buttons{
+  background: rgb(10,249,222);
+background: linear-gradient(85deg, rgba(10,249,222,1) 0%, rgba(95,198,255,1) 100%);
+}
+#pn-buttons:disabled{
+  background: rgb(4, 119, 105);
+background: linear-gradient(85deg, rgb(2, 107, 95) 0%, rgb(72, 159, 205) 100%);
+}
+#pn-buttons:hover{
+  background: rgb(3, 193, 170);
+background: linear-gradient(85deg, rgb(2, 181, 160) 0%, rgb(72, 159, 205) 100%);
+}
+/* The switch - the box around the slider */
+.switch {
+  margin-top: 5px;
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 3.2em;
+  height: 1.7em;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  --background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--background);
+  transition: .5s;
+  border-radius: 25px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.2em;
+  width: 1.2em;
+  border-radius: 50%;
+  left: 10%;
+  bottom: 15%;
+  box-shadow: inset 8px -4px 0px 0px #fff000;
+  background: transparent;
+  transition: .5s;
+}
+
+input:checked + .slider {
+  background: radial-gradient(274px at 7.4% 17.9%, rgb(82, 107, 248) 0.3%, rgb(167, 139, 252) 90.5%);
+}
+
+input:checked + .slider:before {
+  transform: translateX(100%);
+  box-shadow: inset 15px -4px 0px 15px #fff000;
+}
+
+
+
+
+
+
+
+
+
+
+
