@@ -28,7 +28,7 @@ Javascript, HTML, CSS, React.JS, and Bootstrap.
 2. Navigate to the project directory
 
 ```bash
-  cd News-and-Tips
+  cd Web-Hacks-News-and-Tips
 ```
 3. Install the necessary dependencies
 ```bash
@@ -106,5 +106,7 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 
 
 
-![Logo](https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
+</p>
 
