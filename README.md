@@ -86,8 +86,7 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 ## Authors
 
 - [@Om Patel](https://github.com/omunite215)
-![Screenshot 2023-02-06 214720](https://user-images.githubusercontent.com/78680563/217031906-3343d2a0-76fc-4196-bb7a-54cc7d1f7103.png)
-![Screenshot 2023-02-06 214802](https://user-images.githubusercontent.com/78680563/217031985-8ac8a0a8-fe6c-4f71-872b-8e031550d175.png)
+
 
 
 
@@ -102,7 +101,8 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
  - [React Docs](https://reactjs.org/)
  
  ## Screenshots
- 
+![Screenshot 2023-02-06 214720](https://user-images.githubusercontent.com/78680563/217031906-3343d2a0-76fc-4196-bb7a-54cc7d1f7103.png)
+![Screenshot 2023-02-06 214802](https://user-images.githubusercontent.com/78680563/217031985-8ac8a0a8-fe6c-4f71-872b-8e031550d175.png)
 
 
 
