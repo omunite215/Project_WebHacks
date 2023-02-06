@@ -1,70 +1,110 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Web-Hacks
 
-## Available Scripts
+A website that displays the latest news and tips with a beautiful Dark Mode feature, built with HTML, CSS, React, and Bootstrap. The website is designed to provide an easy-to-use and visually appealing platform for users to stay informed and up-to-date with the latest news and tips in their respective fields.
 
-In the project directory, you can run:
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### `npm start`
+Prerequisites
+Before you start, make sure you have the following software installed on your computer:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Node.js
+npm (Node Package Manager)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🛠 Skills
+Javascript, HTML, CSS, React.JS, and Bootstrap.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## How to use this Repository?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository to your local machine
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  git clone https://github.com/omunite215/Web-Hacks-News-and-Tips.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+2. Navigate to the project directory
 
-### `npm run eject`
+```bash
+  cd News-and-Tips
+```
+3. Install the necessary dependencies
+```bash
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Start the development server
+```bash
+  npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The website should now be up and running on http://localhost:3000.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Built With:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React - A JavaScript library for building user interfaces
+- Bootstrap - A front-end component library
+- HTML - Standard markup language for creating web pages
+- CSS - Style sheet language used for describing the look and formatting of a document written in HTML
 
-## Learn More
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Light/dark mode toggle
+- Live News.
+- Responsive
+- Some Tech Tips.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Client:** React, Redux, Bootstrap
 
-### Analyzing the Bundle Size
+**Server:** Netlify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## 🚀 About Me
+Front - End Web Development Enthusiast
+Specializations:
+- UI/UX Design.
+- Front-End Web Development
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Other Common Github Profile Sections
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+👯‍♀️ I'm looking to collaborate on Front-End Web Dev Projects on React.JS
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Feedback
+
+If you have any feedback, please reach out to me at omunite21@gmail.com
+
+
+## Authors
+
+- [@Om Patel](https://github.com/omunite215)
+![Screenshot 2023-02-06 214720](https://user-images.githubusercontent.com/78680563/217031906-3343d2a0-76fc-4196-bb7a-54cc7d1f7103.png)
+![Screenshot 2023-02-06 214802](https://user-images.githubusercontent.com/78680563/217031985-8ac8a0a8-fe6c-4f71-872b-8e031550d175.png)
+
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+ - [News API](https://newsapi.org/)
+
+ - [React Docs](https://reactjs.org/)
+ 
+ ## Screenshots
+ 
+
+
+
+![Logo](https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png)
+
